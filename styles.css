@@ -1,0 +1,19 @@
+.wrapper {
+  position: relative;
+  margin: 0;
+  width: 100%;
+}
+
+#summonerLevelText {
+  color: darkgray;
+  font-size: 1.5rem;
+  font-weight: 700;
+  font-family: 'Open Sans', 'Lucida Sans', Verdana, sans-serif;
+}
+
+#summonerTierText {
+  color: darkgray;
+  font-size: 1.5rem;
+  font-weight: 700;
+  font-family: 'Open Sans', 'Lucida Sans', Verdana, sans-serif;
+}
